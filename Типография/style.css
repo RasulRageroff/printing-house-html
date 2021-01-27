@@ -1,0 +1,165 @@
+html{
+	font-family: arial;
+
+
+}
+a{
+	text-decoration: none;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	
+}
+.nachalo{
+	width: 100%;
+	background-color: red;
+}
+.graficlogo{
+	margin-left:200px;
+}
+span{
+	font-size: 20px;    
+}
+main{
+    font-size: 20px;
+	padding-left: 610px;
+	margin-top: 20px;	
+	height: 30px;	
+	background-color: red;	
+}
+.sverhy{
+	color: black;
+	padding: 20px;
+}
+.zadniy{
+	padding-left: 440px;
+}
+.example2 {
+display:inline-block;
+position:relative;
+
+}
+.example2 span {
+display:inline-block;
+position:absolute;
+top:30px;
+left:440px;
+color:#FFF;
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+background-color:rgba(0,0,0,.4);
+padding:10px 30px;
+}
+.example_beauty{
+	padding-left: 450px;
+}
+.example3  {
+display:inline-block;
+position:absolute;
+top:520px;
+left:1140px;
+color:#FFF;
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+background-color:rgba(0,0,0,.4);
+padding:10px 30px;
+}
+.yslygi1{
+	margin-left: 520px;
+	padding: 20px;
+	justify-content: center;
+}
+.yslygi2{
+	justify-content: center;
+	padding:5px;
+	margin-left: 520px;
+}
+.text1ys{
+	padding: 12px;
+	justify-content: center;
+}
+.cifrovayapecat{
+	color: black;
+	width: 500px;
+	position: absolute;
+	justify-content: center;
+	display:inline-block;
+}
+.tabletka{
+	margin-left: 700px;
+}
+.tabletka2{
+	margin-left: 700px;
+	margin-bottom: 20px;
+}
+.okompanii1{
+	margin-left: 444px;
+	width: 600px;
+}
+.okompanii2{
+	margin-left: 744px;
+	width: 500px;
+}
+.zakaz{
+	margin-left:800px;
+	padding: 20px;
+	padding-top: 4px;
+}
+.sb1{
+	padding: 2px;
+}
+input{
+	padding: 2px;
+}
+form{
+  margin: 66px;
+}
+.id{
+	padding: 2px;
+	margin: 4px;
+}
+.index{
+}
+
+.produckt{
+  margin-left: 900px;
+  padding: 5px;
+}
+.produckt1{
+	margin-left: 900px;
+	padding: 5px;
+}
+.produckt1z{
+	margin-left: 28px;
+	padding: 5px;
+}
+.produckt2z{
+margin-left: 700px;
+width: 700px;
+}
+.produckt2z h3{
+margin-left: 164px;
+}
+
+#footer {
+    position: fixed; 
+    left: 0; bottom: 0; 
+    padding: 10px; 
+    background: red; 
+    color: #fff; 
+    width: 100%; 
+
+}
+.img1{
+	margin-left: 685px;
+}
+.produckt3z{
+	margin-left: 900px;
+}
+.produckt4z{
+	width: 700px;
+margin-left: 650px;
+}
